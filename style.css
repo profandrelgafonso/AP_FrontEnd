@@ -27,3 +27,14 @@ main{
     display: grid;
     grid-template-columns: 1fr 2fr;
 }
+
+.contSecundario{
+    display: flex;
+    gap: 5%;
+    justify-content: center;
+}
+
+iframe{
+    width: 20%;
+    max-width: 20%;
+}
